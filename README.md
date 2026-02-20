@@ -23,7 +23,7 @@
 ### Onboarding & Authentication
 | Welcome Screen | Login | Register |
 |----------------|-------|----------|
-| ![Welcome](screenshots/01-welcome.png) | ![Login](screenshots/02-login.png) | ![Register](screenshots/03-register.png) |
+| ![Welcome](Screenshots/Welcome.png) | ![Login](Screenshots/Login.png) | ![Register](Screenshots/Register.png) |
 
 ### Main Dashboard
 | Home Screen |
