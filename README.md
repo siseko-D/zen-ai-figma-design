@@ -33,7 +33,7 @@
 ### AI Chat Features
 | Chat with ZenAI | Chat Options | Chat History |
 |-----------------|--------------|--------------|
-| ![AI Chat](Screenshots/Chat to AI.png) | ![Options](Screenshots/Chat options.png) | ![History](Screenshots/Chat history.png) |
+| ![AI Chat](Screenshots/Chat to AI.png) | ![Options](Screenshots/Chat options.png) | ![History](Screenshots/Chat-history.png) |
 
 ### Professional & Peer Support
 | Psychologists | Psychologist Chat | Friends List | Friend Chat |
