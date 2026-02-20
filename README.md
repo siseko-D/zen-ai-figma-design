@@ -38,7 +38,7 @@
 ### Professional & Peer Support
 | Psychologists | Psychologist Chat | Friends List | Friend Chat |
 |---------------|-------------------|--------------|-------------|
-| ![Psychologists](screenshots/08-psychologists.png) | ![Psych Chat](screenshots/09-psychologist-chat.png) | ![Friends](screenshots/10-friends.png) | ![Friend Chat](screenshots/11-friend-chat.png) |
+| ![Psychologists](Screenshots/Psychologists.png) | ![Psych Chat](Screenshots/Psychologist-chat.png) | ![Friends](Screenshots/Friends-Chat(1).png) | ![Friend Chat](screenshots/Friend-Chat.png) |
 
 ### Mood Tracking
 | Daily Mood Check | Mood Loaded | Mood History |
