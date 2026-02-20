@@ -43,7 +43,7 @@
 ### Mood Tracking
 | Daily Mood Check | Mood Loaded | Mood History |
 |------------------|-------------|--------------|
-| ![Daily Mood](Screenshots/Daily-Mood.png) | ![Mood Loaded](Screenshots/Mood-Loaded.png) | ![Mood History](Screenshots/Mood-History.png) |
+| ![Daily Mood](Screenshots/Daily-Mood.png) | ![Mood Loaded](Screenshots/Mood-loaded.png) | ![Mood History](Screenshots/Mood-History.png) |
 
 ### Journaling
 | Daily Entry | Journal Entries |
