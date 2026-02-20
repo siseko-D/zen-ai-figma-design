@@ -33,12 +33,12 @@
 ### AI Chat Features
 | Chat with ZenAI | Chat Options | Chat History |
 |-----------------|--------------|--------------|
-| ![AI Chat](Screenshots/Chat-to-AI.png) | ![Options](Screenshots/Chat-options.png) | ![History](Screenshots/Chat-history.png) |
+| ![AI Chat](Screenshots/Chat-to-AI.png) | ![Options](Screenshots/Chat-option.png) | ![History](Screenshots/Chat-history.png) |
 
 ### Professional & Peer Support
 | Psychologists | Psychologist Chat | Friends List | Friend Chat |
 |---------------|-------------------|--------------|-------------|
-| ![Psychologists](Screenshots/Psychologists.png) | ![Psych Chat](Screenshots/Psychologist-chat.png) | ![Friends](Screenshots/Friends-Chat(1).png) | ![Friend Chat](screenshots/Friend-Chat.png) |
+| ![Psychologists](Screenshots/Psychologist.png) | ![Psych Chat](Screenshots/Psychologist-chat.png) | ![Friends](Screenshots/Friend-Chat(1).png) | ![Friend Chat](Screenshots/Friend-Chat.png) |
 
 ### Mood Tracking
 | Daily Mood Check | Mood Loaded | Mood History |
@@ -53,7 +53,7 @@
 ### Analytics & Reports
 | Feedback Menu | Daily Report | Weekly Report | Monthly Report |
 |---------------|--------------|---------------|----------------|
-| ![Feedback](screenshots/18-feedback.png) | ![Daily](Screenshots/Feedback-Daily.png) | ![Weekly](Screenshots/Feedback-Weekly.png) | ![Monthly](Screenshots/Feedback-Monthly.png) |
+| ![Feedback](Screenshots/Feedback.png) | ![Daily](Screenshots/Feedback-Daily.png) | ![Weekly](Screenshots/Feedback-Weekly.png) | ![Monthly](Screenshots/Feedback-Monthly.png) |
 
 ## ✨ Key Features Designed
 
