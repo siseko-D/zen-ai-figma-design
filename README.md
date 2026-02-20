@@ -1,6 +1,6 @@
 # Zen AI - Mental Wellness App Design
 
-![Zen AI Welcome Screen](screenshots/welcome.png)
+![Zen AI Welcome Screen](Screenshots/Welcome.png)
 
 > **Figma Design Portfolio Project**
 
