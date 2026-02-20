@@ -1,4 +1,4 @@
-# Zen AI - Mental Wellness App Design
+# Zen AI - AI Insights for Inner Peace
 
 ![Zen AI Welcome Screen](Screenshots/Welcome.png)
 
