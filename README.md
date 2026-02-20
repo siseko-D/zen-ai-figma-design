@@ -111,32 +111,33 @@
 - **Variables** - Design tokens
 
 ## 📁 Project Structure
-zen-ai-figma-design/
-├── README.md
-├── screenshots/
-│ ├── 01-welcome.png
-│ ├── 02-login.png
-│ ├── 03-register.png
-│ ├── 04-home.png
-│ ├── 05-chat-ai.png
-│ ├── 06-chat-options.png
-│ ├── 07-chat-history.png
-│ ├── 08-psychologists.png
-│ ├── 09-psychologist-chat.png
-│ ├── 10-friends.png
-│ ├── 11-friend-chat.png
-│ ├── 12-friend-chat-1.png
-│ ├── 13-daily-mood.png
-│ ├── 14-mood-loaded.png
-│ ├── 15-mood-history.png
-│ ├── 16-daily-entry.png
-│ ├── 17-journal-entries.png
-│ ├── 18-feedback.png
-│ ├── 19-feedback-daily.png
-│ ├── 20-feedback-weekly.png
-│ ├── 21-feedback-monthly.png
-│ └── 22-load-image.png
-└── figma-link.txt
+```bash
+    zen-ai-figma-design/
+    ├── README.md
+    ├── screenshots/
+    │   ├── 01-welcome.png
+    │   ├── 02-login.png
+    │   ├── 03-register.png
+    │   ├── 04-home.png
+    │   ├── 05-chat-ai.png
+    │   ├── 06-chat-options.png
+    │   ├── 07-chat-history.png
+    │   ├── 08-psychologists.png
+    │   ├── 09-psychologist-chat.png
+    │   ├── 10-friends.png
+    │   ├── 11-friend-chat.png
+    │   ├── 12-friend-chat-1.png
+    │   ├── 13-daily-mood.png
+    │   ├── 14-mood-loaded.png
+    │   ├── 15-mood-history.png
+    │   ├── 16-daily-entry.png
+    │   ├── 17-journal-entries.png
+    │   ├── 18-feedback.png
+    │   ├── 19-feedback-daily.png
+    │   ├── 20-feedback-weekly.png
+    │   ├── 21-feedback-monthly.png
+    │   └── 22-load-image.png
+    └── figma-link.txt
 
 ## 🚦 User Flow
 
