@@ -43,17 +43,17 @@
 ### Mood Tracking
 | Daily Mood Check | Mood Loaded | Mood History |
 |------------------|-------------|--------------|
-| ![Daily Mood](screenshots/13-daily-mood.png) | ![Mood Loaded](screenshots/14-mood-loaded.png) | ![Mood History](screenshots/15-mood-history.png) |
+| ![Daily Mood](Screenshots/Daily-Mood.png) | ![Mood Loaded](Screenshots/Mood-Loaded.png) | ![Mood History](Screenshots/Mood-History.png) |
 
 ### Journaling
 | Daily Entry | Journal Entries |
 |-------------|-----------------|
-| ![Daily Entry](screenshots/16-daily-entry.png) | ![Journal](screenshots/17-journal-entries.png) |
+| ![Daily Entry](Screenshots/Daily-Entry.png) | ![Journal](Screenshots/Journal-Entries.png) |
 
 ### Analytics & Reports
 | Feedback Menu | Daily Report | Weekly Report | Monthly Report |
 |---------------|--------------|---------------|----------------|
-| ![Feedback](screenshots/18-feedback.png) | ![Daily](screenshots/19-feedback-daily.png) | ![Weekly](screenshots/20-feedback-weekly.png) | ![Monthly](screenshots/21-feedback-monthly.png) |
+| ![Feedback](screenshots/18-feedback.png) | ![Daily](Screenshots/Feedback-Daily.png) | ![Weekly](Screenshots/Feedback-Weekly.png) | ![Monthly](Screenshots/Feedback-Monthly.png) |
 
 ## ✨ Key Features Designed
 
