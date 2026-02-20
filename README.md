@@ -28,12 +28,12 @@
 ### Main Dashboard
 | Home Screen |
 |-------------|
-| ![Home](screenshots/04-home.png) |
+| ![Home](Screenshots/Home.png) |
 
 ### AI Chat Features
 | Chat with ZenAI | Chat Options | Chat History |
 |-----------------|--------------|--------------|
-| ![AI Chat](screenshots/05-chat-ai.png) | ![Options](screenshots/06-chat-options.png) | ![History](screenshots/07-chat-history.png) |
+| ![AI Chat](Screenshots/Chat to AI.png) | ![Options](Screenshots/Chat options.png) | ![History](Screenshots/Chat history.png) |
 
 ### Professional & Peer Support
 | Psychologists | Psychologist Chat | Friends List | Friend Chat |
