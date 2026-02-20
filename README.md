@@ -138,6 +138,7 @@
     │   ├── 21-feedback-monthly.png
     │   └── 22-load-image.png
     └── figma-link.txt
+```
 
 ## 🚦 User Flow
 
