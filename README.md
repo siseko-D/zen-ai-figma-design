@@ -16,7 +16,7 @@
 - Ensure AA Standard accessibility with proper touch targets
 
 ## 🔗 Live Figma Prototype
-👉 **[View Interactive Prototype in Figma](https://www.figma.com/proto/DapO9DD1rwjZznHEF0JMp9/AI-Powered-Mental-Health-Assistant?node-id=1-142&t=ekGbNc4g01fW1dC0-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A137)** (opens in new tab)
+👉 **[View Interactive Prototype in Figma](https://www.figma.com/proto/DapO9DD1rwjZznHEF0JMp9/AI-Powered-Mental-Health-Assistant?node-id=1-137&t=ekGbNc4g01fW1dC0-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A137)** (opens in new tab)
 
 ## 📱 App Screenshots
 
